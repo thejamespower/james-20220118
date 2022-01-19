@@ -1,5 +1,11 @@
 # BTC/ETH Live Trading Order Book
 
+Demo: [https://james-20220118.vercel.app/](https://james-20220118.vercel.app/)
+
+Updated project: [https://github.com/thejamespower/react-order-book](https://github.com/thejamespower/react-order-book)
+
+Updated project demo: [https://react-order-book.vercel.app/](https://react-order-book.vercel.app/)
+
 ![Jan-16-2022 18-26-29](https://user-images.githubusercontent.com/7080202/149672920-06918dbe-048e-43be-945c-2e66337c38ef.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
